@@ -1,4 +1,4 @@
-<h1>Hi, I'm Milan! <br/><a href="https://github.com/joshmadakor1">Data Scientist</a>, <a href="https://www.linkedin.com/in/milan-sherman/">Data Analyst</a>, <a href="https://www.youtube.com/c/joshmadakor">Math Professor</a></h1>
+<h1>Hi, I'm Milan! <br/><a href="https://github.com/joshmadakor1">Data Scientist</a>, <a href="https://www.linkedin.com/in/milan-sherman/">Data Analyst</a>, <a href="https://www.youtube.com/channel/UClUuHvr0_ARydY_OHZ0AoeA">Math Professor</a></h1>
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
