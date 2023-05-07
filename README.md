@@ -15,7 +15,7 @@
 - <b>Data Visualization (Tableau)</b>
   - []
 
-<h2>📺 Math Instruction Videos</h2>
+<h2>📺 Popular Math Instruction Videos</h2>
 
 - [Marginal Cost, Revenue, and Profit (Calculus)](https://www.youtube.com/watch?v=IB-2Umkiok8&t=6s)
 - [Antiderviatives](https://www.youtube.com/watch?v=yWpt-4fDYOs&t=66s)
