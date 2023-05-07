@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b> Multiclass Classification Model</b>
-  - [Predicting Approved Risk Class](https://github.com/milansherman-usa/Multiclass-Classification-Model/edit/main/README.md)
+  - [Predicting Approved Risk Class](https://github.com/milansherman-usa/Multiclass-Classification-Model)
 - <b> Binary classification model</b>
   - [Propensity to Buy Model]
 - <b>Time Series model using Neural Prophet</b>
