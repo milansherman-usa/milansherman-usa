@@ -4,23 +4,24 @@
 
 - <b> Multiclass Classification Model</b>
   - [Predicting Approved Risk Class](https://github.com/milansherman-usa/Multiclass-Classification-Model/edit/main/README.md)
-- <b>Propensity to Buy Model (Binary classification model, Logistic Regresion, Random Forest, TabNet, Ensembling)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
-- <b>Marketing Forecast (Time Series model using Neural Prophet)</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-- <b>Baysian A/B Test Simulation (Statistical Simulation in Python)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-- <b>Analysis of Baseball Metrics (Statistical Analysis in R)</b>
+- <b> Binary classification model</b>
+  - [Propensity to Buy Model]
+- <b>Time Series model using Neural Prophet</b>
+  - [Marketing Forecast]
+- <b> (Statistical Simulation in Python)</b>
+  - [Baysian A/B Test Simulation]
+- <b>Statistical Analysis in R</b>
+  - [Analysis of Baseball Metrics]
 - <b>Data Visualization (Tableau)</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - []
 
 <h2>📺 Math Instruction Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Marginal Cost, Revenue, and Profit (Calculus)](https://www.youtube.com/watch?v=IB-2Umkiok8&t=6s)
+- [Antiderviatives](https://www.youtube.com/watch?v=yWpt-4fDYOs&t=66s)
+- [Business and Economic Applications (Calculus)](https://www.youtube.com/watch?v=Oclk4xynJVs&t=69s)
+- [Elasticty of Demand (Calculus)](https://www.youtube.com/watch?v=sSsNxtYVeOI&t=778s)
+- [Limits at Infinity](https://www.youtube.com/watch?v=8TpzAPWkvnw)
 
 <h2> 🤳 Connect with me:</h2>
 
