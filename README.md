@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
-- <b>Predicting Approved Risk Class (Multiclass classification model, Random Forest, Catboost, XGBoost)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b> Multiclass Classification Model</b>
+  - [Predicting Approved Risk Class](https://github.com/milansherman-usa/Multiclass-Classification-Model/edit/main/README.md)
 - <b>Propensity to Buy Model (Binary classification model, Logistic Regresion, Random Forest, TabNet, Ensembling)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b>Marketing Forecast (Time Series model using Neural Prophet)</b>
